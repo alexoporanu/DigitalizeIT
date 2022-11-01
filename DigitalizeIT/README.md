@@ -14,3 +14,6 @@ Check the queue – should be ordered by start date
 TO DO list for each new employee
 Mark as onboarded
 Email for manager
+
+
+You can see the presentation of the project in Prezi here: https://prezi.com/view/mD1rkG8HWmok3YTNuN1Z/.
