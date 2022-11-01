@@ -2,4 +2,4 @@
 
 Done in a team of 5, along Alexandru Zugravu, Alexandra Cornea, Cristina Iancu, Kirjan Dimovski and Diana Nastrut. 
 
-Unfortunately, the origianl repo is set private and we lost the access to it, so I had to copy it here.
+Unfortunately, the origianl repo is set private and we lost the access to the account, so I had to copy it here.
